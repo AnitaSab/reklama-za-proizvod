@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,6 +7,6 @@
 <body>
     <h1>Moj Video Projekt</h1>
     <video controls width="600">
-        <source src="video.mp4" type="video/mp4">
+        <source src="Dokumenti/reklama/Anita_Sabljak_reklama.mp4" type="video/mp4">
 </body>
 </html>
